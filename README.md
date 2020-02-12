@@ -1,2 +1,2 @@
 # Cloud-Computing
-upgraded exercise
+ungraded exercise
